@@ -48,6 +48,9 @@ import java.io.IOException;
 
 %}
 
+//estado para comentario 
+%xstate COMMENT
+
 %%
 
 /*
@@ -58,20 +61,82 @@ import java.io.IOException;
 */
 
 // Espaços são ignorados
-[ \r\n\t\f]    { }
+[ \r\n\t\f]    				{ }
 
-// Exemplo de regra
-"boolean"      { return new Token(Token.BOOLEAN, yytext(), yyline, yycolumn); }
 
-// Identificadores e numerais devem ser retornados com
-// return new Token(Token.ID, yytext(), yyline, yycolumn)
-// e return new Token(Token.NUM, yytext(), yyline, yycolumn)
+
+// Inicia Comentário
+[/][*]                  	{ yybegin(COMMENT); }
+
+// Leitura interna ao comentário
+<COMMENT> {
+  [*][/]                	{ yybegin(YYINITIAL); }
+  // Todo o resto é ignorado, afinal é só um comentário
+  .+                    	{ }
+  \n                    	{ }
+}
+
+
+
+/* Palavras Reservadas */
+boolean      				{ return new Token(Token.BOOLEAN, yytext(), yyline, yycolumn); }
+class      					{ return new Token(Token.CLASS, yytext(), yyline, yycolumn); }
+extends      				{ return new Token(Token.EXTENDS, yytext(), yyline, yycolumn); }
+public      				{ return new Token(Token.PUBLIC, yytext(), yyline, yycolumn); }
+static      				{ return new Token(Token.STATIC, yytext(), yyline, yycolumn); }
+void      					{ return new Token(Token.VOID, yytext(), yyline, yycolumn); }
+main      					{ return new Token(Token.MAIN, yytext(), yyline, yycolumn); }
+String      				{ return new Token(Token.STRING, yytext(), yyline, yycolumn); }
+return      				{ return new Token(Token.RETURN, yytext(), yyline, yycolumn); }
+int      					{ return new Token(Token.INT, yytext(), yyline, yycolumn); }
+if      					{ return new Token(Token.IF, yytext(), yyline, yycolumn); }
+else						{ return new Token(Token.ELSE, yytext(), yyline, yycolumn); }
+while						{ return new Token(Token.WHILE, yytext(), yyline, yycolumn); }
+System.out.println			{ return new Token(Token.PRINTLN, yytext(), yyline, yycolumn); }
+length						{ return new Token(Token.LENGTH, yytext(), yyline, yycolumn); }
+true      					{ return new Token(Token.TRUE, yytext(), yyline, yycolumn); }
+false						{ return new Token(Token.FALSE, yytext(), yyline, yycolumn); }
+this						{ return new Token(Token.THIS, yytext(), yyline, yycolumn); }
+new							{ return new Token(Token.NEW, yytext(), yyline, yycolumn); }
+
+
+
+/* Operadores */
+[!]							{ return new Token('!', yytext(), yyline, yycolumn); }
+[=]							{ return new Token('=', yytext(), yyline, yycolumn); }
+[=][=]						{ return new Token(Token.EQ, yytext(), yyline, yycolumn); }
+[!][=]						{ return new Token(Token.NEQ, yytext(), yyline, yycolumn); }
+[&][&]						{ return new Token(Token.AND, yytext(), yyline, yycolumn); }
+[<]							{ return new Token('<', yytext(), yyline, yycolumn); }
+
+[+]							{ return new Token('+', yytext(), yyline, yycolumn); }
+[-]							{ return new Token('-', yytext(), yyline, yycolumn); }
+[*]							{ return new Token('*', yytext(), yyline, yycolumn); }
+[/]							{ return new Token('/', yytext(), yyline, yycolumn); }
+
+[(]                     	{ return new Token('(', yytext(), yyline, yycolumn); }
+[)]                     	{ return new Token(')', yytext(), yyline, yycolumn); }
+[\[]                    	{ return new Token('[', yytext(), yyline, yycolumn); }
+[\]]                    	{ return new Token(']', yytext(), yyline, yycolumn); }
+[{]                     	{ return new Token('{', yytext(), yyline, yycolumn); }
+[}]                     	{ return new Token('}', yytext(), yyline, yycolumn); }
+
+[;]                     	{ return new Token(';', yytext(), yyline, yycolumn); }
+[.]                     	{ return new Token('.', yytext(), yyline, yycolumn); }
+[,]                     	{ return new Token(',', yytext(), yyline, yycolumn); }
+
+
+	
+// Identificadores e numerais
+[a-zA-Z][a-zA-Z0-9_]*		{ return new Token(Token.ID, yytext(), yyline, yycolumn); }
+[0-9]+						{ return new Token(Token.NUM, yytext(), yyline, yycolumn); }
+
 
 // Regra para EOF
-<<EOF>>      { return new Token(Token.EOF, "<<EOF>>", yyline, yycolumn); }
+<<EOF>>      				{ return new Token(Token.EOF,"<<EOF>>", yyline, yycolumn); }
 
 // Erros léxicos 
-.            { throw new RuntimeException("erro léxico, linha: " + 
-               (yyline+1) + ", coluna : " + (yycolumn+1) + ", char: " + 
-               yytext()); }
+.            				{ throw new RuntimeException("erro léxico, linha: " + 
+				               (yyline+1) + ", coluna : " + (yycolumn+1) + ", char: " + 
+				               yytext()); }
 
