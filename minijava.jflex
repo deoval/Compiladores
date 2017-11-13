@@ -48,8 +48,9 @@ import java.io.IOException;
 
 %}
 
-//estado para comentario 
+//estados para comentario
 %xstate COMMENT
+%xstate COMMENTBLOCO
 
 %%
 
@@ -66,14 +67,21 @@ import java.io.IOException;
 
 
 // Inicia Comentário
-[/][*]                  	{ yybegin(COMMENT); }
+[/][/]                  	{ yybegin(COMMENT); }
+[/][*]                  	{ yybegin(COMMENTBLOCO); }
 
 // Leitura interna ao comentário
 <COMMENT> {
+  [\r|\n|\r\n]              { yybegin(YYINITIAL); }
+  // Todo o resto é ignorado, afinal é só um comentário
+  .                    	    { }
+}
+
+<COMMENTBLOCO> {
   [*][/]                	{ yybegin(YYINITIAL); }
   // Todo o resto é ignorado, afinal é só um comentário
-  .+                    	{ }
-  \n                    	{ }
+  .                    	{ }
+  [ \r\n\t\f]           { }
 }
 
 
@@ -98,7 +106,7 @@ true      					{ return new Token(Token.TRUE, yytext(), yyline, yycolumn); }
 false						{ return new Token(Token.FALSE, yytext(), yyline, yycolumn); }
 this						{ return new Token(Token.THIS, yytext(), yyline, yycolumn); }
 new							{ return new Token(Token.NEW, yytext(), yyline, yycolumn); }
-
+null                        { return new Token(Token.NULL, yytext(), yyline, yycolumn); }
 
 
 /* Operadores */
@@ -139,4 +147,3 @@ new							{ return new Token(Token.NEW, yytext(), yyline, yycolumn); }
 .            				{ throw new RuntimeException("erro léxico, linha: " + 
 				               (yyline+1) + ", coluna : " + (yycolumn+1) + ", char: " + 
 				               yytext()); }
-

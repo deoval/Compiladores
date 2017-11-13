@@ -3,7 +3,7 @@ class Factorial{
 	System.out.println(new Fac().ComputeFac(10));
     }
 }
-
+//Teste de comentário
 class Fac {
 
     public int ComputeFac(int num){
