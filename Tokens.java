@@ -1,4 +1,4 @@
-// Output created by jacc on Sun Jun 09 13:11:15 BRT 2013
+// Output created by jacc on Mon Nov 13 14:15:17 BRST 2017
 
 interface Tokens {
     int ENDINPUT = 0;
@@ -43,6 +43,7 @@ interface Tokens {
     // '=' (code=61)
     // '[' (code=91)
     // ']' (code=93)
+    // '^' (code=94)
     // '{' (code=123)
     // '}' (code=125)
 }
