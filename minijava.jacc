@@ -27,10 +27,17 @@
 
 
 /* TODO: classes de prioridade */
-%left NEG
-%left '+' '-'
+%left '+' '-' '.' '(' ')' '[' ']'
+%right '!'
 %left '*' '/'
+%left '<' '>'
+%left EQ NEQ
+%left AND
 %right '^'
+%left NEG
+%left '='
+%left ','
+
 
 %%
 
@@ -46,7 +53,6 @@ classes : classes classe   { $1.add($2); $$ = $1; }
 
 /* TODO: não-terminal classe, gera nó Classe da AST, regra CLASSE na gramática */
 classe : CLASS ID '{' vars metodos '}'
-       |
        ;
 
 
@@ -62,10 +68,9 @@ var : tipo ID ';'  { $$ = new Var($1, $2.getTexto(), $2.getLin()); }
 
 
 /* TODO: não-terminal metodos, lista de 0 ou mais métodos, regra {METODO} */
-metodos: metodos metodo    { $1.add($2); $$ = $1; }
-       |                   { $$ = new java.util.ArrayList<Metodo>(); }
+metodos: metodos ';' metodo    { $1.add($2); $$ = $1; }
+       |                       { $$ = new java.util.ArrayList<Metodo>(); }
        ;
-
 
 
 metodo : PUBLIC tipo ID '(' ')' '{' vars cmds RETURN exp ';' '}'
@@ -97,7 +102,7 @@ cmd : IF exp '{' cmd '}'
     | IF exp '{' cmd '}' ELSE '{' cmd '}'
     | WHILE exp '{' cmd '}'
     | PRINTLN '(' exp ')'
-    | var '=' exp
+    | ID '=' exp
     | exp
     ;
 
