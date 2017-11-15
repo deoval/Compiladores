@@ -52,4 +52,18 @@ object ParserTest {
         val saida2 = parser.saida.toString()
         println(saida == saida2)
     }
+
+
+    @Test
+    fun test5() {
+        val f = java.io.FileReader("Teste.java")
+        var parser = Parser(f)
+        parser.parse()
+        val saida = parser.saida.toString()
+        val sr = java.io.StringReader(saida)
+        parser = Parser(sr)
+        parser.parse()
+        val saida2 = parser.saida.toString()
+        println(saida == saida2)
+    }
 }
