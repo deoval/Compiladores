@@ -27,27 +27,15 @@
 
 
 /* TODO: classes de prioridade */
-/*%left '+' '-' '.' '(' ')' '[' ']'
-%right '!'
-%left '*' '/'
-%left '<' '>'
-%left EQ NEQ
-%left AND
-%right '^'
-%left NEG
-%left '='
-%left ','*/
-
-
-%left NEG
+%left   NEG
 %right	'='
 %left	AND
 %left	EQ NEQ
-%left	'<' '>'
+%left	'<'
 %left	'+' '-'
 %left	'*' '/'
 %right	'!'
-%left IF
+%left   IF
 %right  ELSE
 
 %%

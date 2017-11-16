@@ -1,4 +1,4 @@
-// Output created by jacc on Tue Nov 14 17:11:22 BRST 2017
+// Output created by jacc on Wed Nov 15 22:11:33 BRST 2017
 
 
 class Parser implements Tokens {
@@ -3820,13 +3820,13 @@ class Parser implements Tokens {
     private int yys112() {
         switch (yytok) {
             case WHILE:
-            case '}':
             case '{':
             case RETURN:
             case INT:
             case PUBLIC:
             case PRINTLN:
             case IF:
+            case '}':
             case ID:
             case BOOLEAN:
                 return yyr6();
@@ -3862,13 +3862,13 @@ class Parser implements Tokens {
     private int yys125() {
         switch (yytok) {
             case WHILE:
-            case '}':
             case '{':
             case RETURN:
             case INT:
             case PUBLIC:
             case PRINTLN:
             case IF:
+            case '}':
             case ID:
             case BOOLEAN:
                 return yyr8();

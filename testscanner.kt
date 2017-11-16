@@ -32,4 +32,12 @@ object ScannerTest {
         for (tok in scan.tokens())
             System.out.println(tok)
     }
+
+    @Test
+    fun test5() {
+        val f = java.io.FileReader("sinalmaior.java")
+        val scan = Scanner(f)
+        for (tok in scan.tokens())
+            System.out.println(tok)
+    }
 }

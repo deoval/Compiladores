@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Compiladores1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/Compiladores/jflex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Compiladores/jacc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
