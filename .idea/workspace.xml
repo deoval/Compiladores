@@ -1,14 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e187c348-b79d-49be-a96e-6d475a7105a1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jacc.jar" afterPath="$PROJECT_DIR$/jacc.jar" />
+    <list default="true" id="f6722ef7-910b-452e-9c99-500094b71c6f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/.idea/kotlinc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/.idea/libraries/KotlinJavaRuntime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/Parser.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Teste.java" afterPath="$PROJECT_DIR$/prioridade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Atrib.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Atrib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/AtribVetor.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/AtribVetor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/BBS.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/BBS.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/BS.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/BS.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/BinarySearch.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/BinarySearch.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Bloco.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Bloco.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/BubbleSort.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/BubbleSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Campo.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Campo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Chamada.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Chamada.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Classe.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Classe.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Cmd.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Cmd.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Dif.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Dif.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Div.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Div.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/ELog.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/ELog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Exp.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Exp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Fac.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Fac.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Factorial.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Factorial.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/False.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/False.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Id.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/If.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/If.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Igual.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Igual.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Indexa.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Indexa.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Length.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Length.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Menor.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Menor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Metodo.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Metodo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Mult.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Mult.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/MyVisitor.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/MyVisitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Nao.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Nao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Neg.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Neg.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/New.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/New.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Null.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Null.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Num.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Num.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/ParserTest.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/ParserTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Println.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Println.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Prog.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Prog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Scanner.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Scanner.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/ScannerTest.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/ScannerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Soma.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Soma.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Sub.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Sub.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/TV.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/TV.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/This.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/This.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Token$Companion.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Token$Companion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Token.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Token.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Tokens.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Tokens.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Tree.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Tree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/TreeVisitor.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/TreeVisitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/True.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/True.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Var.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Var.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Vetor.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Vetor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Visitor.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Visitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/While.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/While.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Compiladores.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Compiladores.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Compiladores.iml" afterPath="$PROJECT_DIR$/Compiladores.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Parser.java" afterPath="$PROJECT_DIR$/Parser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scanner.java" afterPath="$PROJECT_DIR$/Scanner.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tokens.java" afterPath="$PROJECT_DIR$/Tokens.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/factorial.java" afterPath="$PROJECT_DIR$/factorial.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/minijava.jacc" afterPath="$PROJECT_DIR$/minijava.jacc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/treevisitor.java" afterPath="$PROJECT_DIR$/treevisitor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/.idea/libraries/Compiladores.xml" afterPath="$PROJECT_DIR$/out/production/Compiladores/.idea/libraries/Compiladores.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/.idea/misc.xml" afterPath="$PROJECT_DIR$/out/production/Compiladores/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/.idea/workspace.xml" afterPath="$PROJECT_DIR$/out/production/Compiladores/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Compiladores.iml" afterPath="$PROJECT_DIR$/out/production/Compiladores/Compiladores.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/minijava.jacc" afterPath="$PROJECT_DIR$/out/production/Compiladores/minijava.jacc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testparser.kt" afterPath="$PROJECT_DIR$/testparser.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testscanner.kt" afterPath="$PROJECT_DIR$/testscanner.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,35 +83,78 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file leaf-file-name="testparser.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testparser.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="110" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minijava.jflex" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/minijava.jflex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="testscanner.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testscanner.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+            <state relative-caret-position="364">
+              <caret line="41" column="5" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="binarysearch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/binarysearch.java">
+      <file leaf-file-name="minijava.jacc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/minijava.jacc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <state relative-caret-position="756">
+              <caret line="42" column="77" lean-forward="true" selection-start-line="42" selection-start-column="77" selection-end-line="42" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="factorial.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/factorial.java">
+      <file leaf-file-name="prioridade.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prioridade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="450">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
               <folding>
-                <element signature="e#56#57#0" expanded="true" />
-                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#59#60#0" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sinalmaior.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sinalmaior.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="e#58#59#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,50 +163,44 @@
       <file leaf-file-name="Parser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Parser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="4462" column="38" lean-forward="true" selection-start-line="4462" selection-start-column="38" selection-end-line="4462" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testparser.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testparser.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="treevisitor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/treevisitor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="95">
+              <caret line="4052" column="106" lean-forward="false" selection-start-line="4052" selection-start-column="106" selection-end-line="4052" selection-end-column="106" />
               <folding>
-                <element signature="e#0#7135#0" expanded="true" />
+                <marker date="1510791093560" expanded="true" signature="121530:121537" ph="{...}" />
+                <marker date="1510791093560" expanded="true" signature="121562:121830" ph="{...}" />
+                <marker date="1510791093560" expanded="true" signature="121855:122158" ph="{...}" />
+                <marker date="1510791093560" expanded="true" signature="122184:122297" ph="{...}" />
+                <marker date="1510791093560" expanded="true" signature="122323:122434" ph="{...}" />
+                <marker date="1510791093560" expanded="true" signature="122460:122563" ph="{...}" />
+                <marker date="1510791093560" expanded="true" signature="122589:122718" ph="{...}" />
+                <marker date="1510791093560" expanded="true" signature="122746:122930" ph="{...}" />
+                <marker date="1510791093560" expanded="true" signature="122955:123151" ph="{...}" />
+                <marker date="1510791093560" expanded="true" signature="123176:123366" ph="{...}" />
+                <marker date="1510791093560" expanded="true" signature="123391:123527" ph="{...}" />
+                <marker date="1510791093560" expanded="true" signature="123555:123738" ph="{...}" />
+                <marker date="1510791093560" expanded="true" signature="123963:124036" ph="{...}" />
+                <marker date="1510791093560" expanded="true" signature="124052:124212" ph="{...}" />
+                <marker date="1510791093560" expanded="true" signature="124239:124391" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minijava.jflex" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/minijava.jflex">
+      <file leaf-file-name="ast.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ast.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="843">
-              <caret line="148" column="43" lean-forward="false" selection-start-line="148" selection-start-column="43" selection-end-line="148" selection-end-column="43" />
+            <state relative-caret-position="-108">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minijava.jacc" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/minijava.jacc">
+      <file leaf-file-name="factorial.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/factorial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="113" column="66" lean-forward="false" selection-start-line="113" selection-start-column="62" selection-end-line="113" selection-end-column="66" />
+            <state relative-caret-position="270">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="17" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -107,16 +208,16 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>NEG</find>
-      <find>Fa</find>
-      <find>main</find>
-      <find>pri</find>
-      <find>PUB</find>
-      <find>texto</find>
-      <find>lin</find>
-      <find>Scann</find>
+      <find>retu</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -130,25 +231,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/testscanner.kt" />
-        <option value="$PROJECT_DIR$/Compiladores.iml" />
-        <option value="$PROJECT_DIR$/minijava.jflex" />
-        <option value="$PROJECT_DIR$/Parser.java" />
-        <option value="$PROJECT_DIR$/treevisitor.java" />
-        <option value="$PROJECT_DIR$/factorial.java" />
+        <option value="$PROJECT_DIR$/Teste.java" />
+        <option value="$PROJECT_DIR$/binarysearch.java" />
         <option value="$PROJECT_DIR$/minijava.jacc" />
+        <option value="$PROJECT_DIR$/prioridade.java" />
+        <option value="$PROJECT_DIR$/sinalmaior.java" />
+        <option value="$PROJECT_DIR$/testscanner.kt" />
         <option value="$PROJECT_DIR$/testparser.kt" />
+        <option value="$PROJECT_DIR$/README.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1855" />
-    <option name="height" value="1084" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="67" />
+    <option name="y" value="24" />
+    <option name="width" value="1289" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -162,7 +263,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,32 +273,10 @@
               <item name="Compiladores" type="b2602c69:ProjectViewProjectNode" />
               <item name="Compiladores" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
             <path>
-              <item name="Compiladores" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Compiladores" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="Compiladores" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Compiladores" type="616d4139:PackageViewModuleNode" />
+              <item name="Compiladores" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Compiladores" type="462c0819:PsiDirectoryNode" />
               <item name="binarysearch.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Compiladores" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Compiladores" type="616d4139:PackageViewModuleNode" />
-              <item name="factorial.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Compiladores" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Compiladores" type="616d4139:PackageViewModuleNode" />
-              <item name="treevisitor.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -203,11 +284,6 @@
       </pane>
       <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -221,22 +297,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ParserTest (4)">
-    <configuration name="ParserTest (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ParserTest">
+    <configuration name="Parser" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Compiladores" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ParserTest" />
       <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -244,88 +320,7 @@
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="ParserTest (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="Compiladores" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ParserTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="ParserTest (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="Compiladores" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ParserTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="ParserTest (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="Compiladores" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ParserTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
+      <option name="PROPERTIES_FILE" value="" />
       <envs />
       <properties />
       <listeners />
@@ -357,21 +352,21 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="ScannerTest" type="TestNG" factoryName="TestNG">
+    <configuration name="ScannerTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Compiladores" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="" />
+      <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ScannerTest" />
       <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" value="" />
+      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -379,7 +374,7 @@
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" value="" />
+      <option name="PROPERTIES_FILE" />
       <envs />
       <properties />
       <listeners />
@@ -465,21 +460,15 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.ScannerTest" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="TestNG.Parser" />
       <item index="1" class="java.lang.String" itemvalue="TestNG.ParserTest" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.ParserTest (1)" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.ParserTest (2)" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.ParserTest (3)" />
-      <item index="5" class="java.lang.String" itemvalue="TestNG.ParserTest (4)" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.ScannerTest" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.ParserTest (4)" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.ParserTest (3)" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.ParserTest (2)" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.ParserTest (1)" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.ParserTest" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="TestNG.ParserTest" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.ScannerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -488,190 +477,115 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e187c348-b79d-49be-a96e-6d475a7105a1" name="Default" comment="" />
-      <created>1510596734271</created>
+      <changelist id="f6722ef7-910b-452e-9c99-500094b71c6f" name="Default" comment="" />
+      <created>1510786830857</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1510596734271</updated>
+      <updated>1510786830857</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ParserTest_(4) - 2017.11.14 at 16h 29m 57s.xml">
-      <configuration name="ParserTest (4)" configurationId="TestNG" />
+    <history-entry file="ParserTest - 2017.11.15 at 22h 17m 21s.xml">
+      <configuration name="ParserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserTest_(4) - 2017.11.14 at 16h 31m 05s.xml">
-      <configuration name="ParserTest (4)" configurationId="TestNG" />
+    <history-entry file="ParserTest - 2017.11.15 at 22h 18m 01s.xml">
+      <configuration name="ParserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserTest_(4) - 2017.11.14 at 16h 32m 38s.xml">
-      <configuration name="ParserTest (4)" configurationId="TestNG" />
+    <history-entry file="ParserTest - 2017.11.15 at 22h 21m 30s.xml">
+      <configuration name="ParserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserTest_(4) - 2017.11.14 at 16h 33m 14s.xml">
-      <configuration name="ParserTest (4)" configurationId="TestNG" />
+    <history-entry file="ParserTest - 2017.11.15 at 22h 25m 45s.xml">
+      <configuration name="ParserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserTest_(4) - 2017.11.14 at 16h 37m 00s.xml">
-      <configuration name="ParserTest (4)" configurationId="TestNG" />
+    <history-entry file="ParserTest - 2017.11.15 at 22h 33m 03s.xml">
+      <configuration name="ParserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserTest_(4) - 2017.11.14 at 17h 07m 18s.xml">
-      <configuration name="ParserTest (4)" configurationId="TestNG" />
+    <history-entry file="ParserTest - 2017.11.15 at 22h 34m 10s.xml">
+      <configuration name="ParserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserTest_(4) - 2017.11.14 at 17h 10m 00s.xml">
-      <configuration name="ParserTest (4)" configurationId="TestNG" />
+    <history-entry file="ParserTest - 2017.11.15 at 22h 46m 17s.xml">
+      <configuration name="ParserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserTest_(4) - 2017.11.14 at 17h 11m 26s.xml">
-      <configuration name="ParserTest (4)" configurationId="TestNG" />
+    <history-entry file="ParserTest - 2017.11.15 at 22h 46m 40s.xml">
+      <configuration name="ParserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserTest_(4) - 2017.11.14 at 17h 12m 18s.xml">
-      <configuration name="ParserTest (4)" configurationId="TestNG" />
+    <history-entry file="ParserTest - 2017.11.15 at 22h 47m 19s.xml">
+      <configuration name="ParserTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ParserTest_(4) - 2017.11.14 at 17h 15m 08s.xml">
-      <configuration name="ParserTest (4)" configurationId="TestNG" />
+    <history-entry file="ScannerTest - 2017.11.15 at 22h 34m 25s.xml">
+      <configuration name="ScannerTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="67" y="24" width="1289" height="744" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3415133" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36707565" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.05799373" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24825446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testscanner.kt">
+    <entry file="file://$PROJECT_DIR$/ast.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+        <state relative-caret-position="-108">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Parser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/minijava.jflex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2664">
-          <caret line="148" column="43" lean-forward="false" selection-start-line="148" selection-start-column="43" selection-end-line="148" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testscanner.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testscanner.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Compiladores.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Compiladores/Num.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Compiladores/New.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Compiladores/Null.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/treevisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="95">
+          <caret line="4052" column="106" lean-forward="false" selection-start-line="4052" selection-start-column="106" selection-end-line="4052" selection-end-column="106" />
           <folding>
-            <element signature="e#0#7135#0" expanded="true" />
+            <marker date="1510791093560" expanded="true" signature="121530:121537" ph="{...}" />
+            <marker date="1510791093560" expanded="true" signature="121562:121830" ph="{...}" />
+            <marker date="1510791093560" expanded="true" signature="121855:122158" ph="{...}" />
+            <marker date="1510791093560" expanded="true" signature="122184:122297" ph="{...}" />
+            <marker date="1510791093560" expanded="true" signature="122323:122434" ph="{...}" />
+            <marker date="1510791093560" expanded="true" signature="122460:122563" ph="{...}" />
+            <marker date="1510791093560" expanded="true" signature="122589:122718" ph="{...}" />
+            <marker date="1510791093560" expanded="true" signature="122746:122930" ph="{...}" />
+            <marker date="1510791093560" expanded="true" signature="122955:123151" ph="{...}" />
+            <marker date="1510791093560" expanded="true" signature="123176:123366" ph="{...}" />
+            <marker date="1510791093560" expanded="true" signature="123391:123527" ph="{...}" />
+            <marker date="1510791093560" expanded="true" signature="123555:123738" ph="{...}" />
+            <marker date="1510791093560" expanded="true" signature="123963:124036" ph="{...}" />
+            <marker date="1510791093560" expanded="true" signature="124052:124212" ph="{...}" />
+            <marker date="1510791093560" expanded="true" signature="124239:124391" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/minijava.jflex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="843">
-          <caret line="148" column="43" lean-forward="false" selection-start-line="148" selection-start-column="43" selection-end-line="148" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#56#57#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testscanner.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,26 +597,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testparser.kt">
+    <entry file="file://$PROJECT_DIR$/factorial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        <state relative-caret-position="270">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="17" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Parser.java">
+    <entry file="file://$PROJECT_DIR$/testscanner.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="4462" column="38" lean-forward="true" selection-start-line="4462" selection-start-column="38" selection-end-line="4462" selection-end-column="38" />
+        <state relative-caret-position="364">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sinalmaior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#58#59#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prioridade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#59#60#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/minijava.jacc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="113" column="66" lean-forward="false" selection-start-line="113" selection-start-column="62" selection-end-line="113" selection-end-column="66" />
+        <state relative-caret-position="756">
+          <caret line="42" column="77" lean-forward="true" selection-start-line="42" selection-start-column="77" selection-end-line="42" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testparser.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minijava.jflex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -710,80 +670,9 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Compiladores</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Compiladores</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

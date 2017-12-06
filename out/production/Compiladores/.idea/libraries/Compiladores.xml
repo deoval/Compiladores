@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Compiladores">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/jflex.jar!/" />
       <root url="jar://$PROJECT_DIR$/jacc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jflex.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

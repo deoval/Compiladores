@@ -31,7 +31,7 @@
 %right	'='
 %left	AND
 %left	EQ NEQ
-%left	'<' '>'
+%left	'<'
 %left	'+' '-'
 %left	'*' '/'
 %right	'!'
