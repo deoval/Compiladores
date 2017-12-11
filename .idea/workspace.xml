@@ -2,19 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6722ef7-910b-452e-9c99-500094b71c6f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/.idea/kotlinc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/.idea/libraries/KotlinJavaRuntime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/BBS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/BS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/BinarySearch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/BubbleSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/Fac.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/Factorial.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/MyVisitor.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/Parser.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Teste.java" afterPath="$PROJECT_DIR$/prioridade.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/Scanner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/TV.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/Tokens.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/Tree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/TreeVisitor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Compiladores/Visitor.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Atrib.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Atrib.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/AtribVetor.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/AtribVetor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/BBS.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/BBS.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/BS.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/BS.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/BinarySearch.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/BinarySearch.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Bloco.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Bloco.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/BubbleSort.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/BubbleSort.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Campo.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Campo.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Chamada.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Chamada.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Classe.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Classe.class" />
@@ -23,8 +27,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Div.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Div.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/ELog.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/ELog.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Exp.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Exp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Fac.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Fac.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Factorial.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Factorial.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/False.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/False.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Id.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/If.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/If.class" />
@@ -34,7 +36,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Menor.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Menor.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Metodo.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Metodo.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Mult.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Mult.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/MyVisitor.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/MyVisitor.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Nao.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Nao.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Neg.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Neg.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/New.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/New.class" />
@@ -43,36 +44,25 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/ParserTest.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/ParserTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Println.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Println.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Prog.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Prog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Scanner.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Scanner.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/ScannerTest.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/ScannerTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Soma.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Soma.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Sub.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Sub.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/TV.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/TV.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/This.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/This.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Token$Companion.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Token$Companion.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Token.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Token.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Tokens.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Tokens.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Tree.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Tree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/TreeVisitor.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/TreeVisitor.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/True.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/True.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Var.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Var.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Vetor.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Vetor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Visitor.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/Visitor.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/While.class" afterPath="$PROJECT_DIR$/out/production/Compiladores/While.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Compiladores.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Compiladores.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Compiladores.iml" afterPath="$PROJECT_DIR$/Compiladores.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Parser.java" afterPath="$PROJECT_DIR$/Parser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tokens.java" afterPath="$PROJECT_DIR$/Tokens.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/minijava.jacc" afterPath="$PROJECT_DIR$/minijava.jacc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/.idea/libraries/Compiladores.xml" afterPath="$PROJECT_DIR$/out/production/Compiladores/.idea/libraries/Compiladores.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Trab2/ast.kt" afterPath="$PROJECT_DIR$/Trab2/ast.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ast.kt" afterPath="$PROJECT_DIR$/ast.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/.idea/misc.xml" afterPath="$PROJECT_DIR$/out/production/Compiladores/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/.idea/workspace.xml" afterPath="$PROJECT_DIR$/out/production/Compiladores/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/Compiladores.iml" afterPath="$PROJECT_DIR$/out/production/Compiladores/Compiladores.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/minijava.jacc" afterPath="$PROJECT_DIR$/out/production/Compiladores/minijava.jacc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Compiladores/README.txt" afterPath="$PROJECT_DIR$/out/production/Compiladores/README.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testparser.kt" afterPath="$PROJECT_DIR$/testparser.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testscanner.kt" afterPath="$PROJECT_DIR$/testscanner.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/token.kt" afterPath="$PROJECT_DIR$/token.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,12 +73,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="testparser.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testparser.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="110" />
+            <state relative-caret-position="1116">
+              <caret line="62" column="22" lean-forward="false" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -97,101 +87,73 @@
       <file leaf-file-name="minijava.jflex" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/minijava.jflex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+            <state relative-caret-position="1404">
+              <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testscanner.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testscanner.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="41" column="5" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="minijava.jacc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/minijava.jacc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="42" column="77" lean-forward="true" selection-start-line="42" selection-start-column="77" selection-end-line="42" selection-end-column="77" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="prioridade.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prioridade.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
-              <folding>
-                <element signature="e#59#60#0" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sinalmaior.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sinalmaior.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="e#58#59#0" expanded="true" />
-                <element signature="e#131#132#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Parser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Parser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="4052" column="106" lean-forward="false" selection-start-line="4052" selection-start-column="106" selection-end-line="4052" selection-end-column="106" />
-              <folding>
-                <marker date="1510791093560" expanded="true" signature="121530:121537" ph="{...}" />
-                <marker date="1510791093560" expanded="true" signature="121562:121830" ph="{...}" />
-                <marker date="1510791093560" expanded="true" signature="121855:122158" ph="{...}" />
-                <marker date="1510791093560" expanded="true" signature="122184:122297" ph="{...}" />
-                <marker date="1510791093560" expanded="true" signature="122323:122434" ph="{...}" />
-                <marker date="1510791093560" expanded="true" signature="122460:122563" ph="{...}" />
-                <marker date="1510791093560" expanded="true" signature="122589:122718" ph="{...}" />
-                <marker date="1510791093560" expanded="true" signature="122746:122930" ph="{...}" />
-                <marker date="1510791093560" expanded="true" signature="122955:123151" ph="{...}" />
-                <marker date="1510791093560" expanded="true" signature="123176:123366" ph="{...}" />
-                <marker date="1510791093560" expanded="true" signature="123391:123527" ph="{...}" />
-                <marker date="1510791093560" expanded="true" signature="123555:123738" ph="{...}" />
-                <marker date="1510791093560" expanded="true" signature="123963:124036" ph="{...}" />
-                <marker date="1510791093560" expanded="true" signature="124052:124212" ph="{...}" />
-                <marker date="1510791093560" expanded="true" signature="124239:124391" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ast.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ast.kt">
+        <entry file="file://$PROJECT_DIR$/Trab2/ast.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-108">
+            <state relative-caret-position="11628">
+              <caret line="646" column="49" lean-forward="false" selection-start-line="646" selection-start-column="49" selection-end-line="646" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tokens.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tokens.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="token.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/token.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding>
+                <element signature="e#1#161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="token.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Trab2/token.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Trab2/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testchecker.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Trab2/testchecker.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#121#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -200,8 +162,20 @@
         <entry file="file://$PROJECT_DIR$/factorial.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="17" selection-end-column="1" />
+              <caret line="17" column="1" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="17" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ast.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ast.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4266">
+              <caret line="237" column="2" lean-forward="false" selection-start-line="237" selection-start-column="2" selection-end-line="237" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#5779#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -218,6 +192,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>retu</find>
+      <find>TODO</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -237,16 +212,19 @@
         <option value="$PROJECT_DIR$/prioridade.java" />
         <option value="$PROJECT_DIR$/sinalmaior.java" />
         <option value="$PROJECT_DIR$/testscanner.kt" />
-        <option value="$PROJECT_DIR$/testparser.kt" />
         <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/ast.kt" />
+        <option value="$PROJECT_DIR$/testparser.kt" />
+        <option value="$PROJECT_DIR$/token.kt" />
+        <option value="$PROJECT_DIR$/Trab2/ast.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="67" />
-    <option name="y" value="24" />
-    <option name="width" value="1289" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="348" />
+    <option name="y" value="6" />
+    <option name="width" value="1278" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -263,9 +241,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Compiladores" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Compiladores" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,7 +264,7 @@
             <path>
               <item name="Compiladores" type="b2602c69:ProjectViewProjectNode" />
               <item name="Compiladores" type="462c0819:PsiDirectoryNode" />
-              <item name="binarysearch.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Trab2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -284,6 +272,12 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Trab2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -297,7 +291,88 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ParserTest">
+  <component name="RunManager" selected="TestNG.CheckerTest (2)">
+    <configuration name="CheckerTest (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Compiladores" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="Trab2" />
+      <option name="MAIN_CLASS_NAME" value="CheckerTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="CheckerTest (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Compiladores" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="Trab2" />
+      <option name="MAIN_CLASS_NAME" value="CheckerTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="CheckerTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Compiladores" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="Trab2" />
+      <option name="MAIN_CLASS_NAME" value="CheckerTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration name="Parser" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Compiladores" />
@@ -460,15 +535,21 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="3">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="TestNG.Parser" />
       <item index="1" class="java.lang.String" itemvalue="TestNG.ParserTest" />
       <item index="2" class="java.lang.String" itemvalue="TestNG.ScannerTest" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.CheckerTest" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.CheckerTest (1)" />
+      <item index="5" class="java.lang.String" itemvalue="TestNG.CheckerTest (2)" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.ParserTest" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.ScannerTest" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="TestNG.CheckerTest (2)" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.CheckerTest (1)" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.CheckerTest" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.ParserTest" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.ScannerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -518,35 +599,35 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="24" width="1289" height="744" extended-state="4" />
+    <frame x="348" y="6" width="1857" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.05799373" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24825446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.05799373" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17088948" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32822084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -557,35 +638,305 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Trab2/ast.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11628">
+          <caret line="646" column="49" lean-forward="false" selection-start-line="646" selection-start-column="49" selection-end-line="646" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/token.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="e#1#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trab2/token.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trab2/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trab2/testchecker.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ast.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
+        <state relative-caret-position="4266">
+          <caret line="237" column="2" lean-forward="false" selection-start-line="237" selection-start-column="2" selection-end-line="237" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#5779#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tokens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testparser.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="62" column="22" lean-forward="false" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minijava.jflex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trab2/ast.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11628">
+          <caret line="646" column="49" lean-forward="false" selection-start-line="646" selection-start-column="49" selection-end-line="646" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/token.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="e#1#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trab2/token.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trab2/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trab2/testchecker.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ast.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4266">
+          <caret line="237" column="2" lean-forward="false" selection-start-line="237" selection-start-column="2" selection-end-line="237" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#5779#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tokens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testparser.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minijava.jflex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minijava.jacc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="11" lean-forward="false" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testscanner.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prioridade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#59#60#0" expanded="false" />
+            <element signature="e#122#123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72936">
+          <caret line="4052" column="106" lean-forward="false" selection-start-line="4052" selection-start-column="106" selection-end-line="4052" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ast.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#5779#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testparser.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minijava.jflex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testscanner.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minijava.jacc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prioridade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#59#60#0" expanded="false" />
+            <element signature="e#122#123#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72936">
+          <caret line="4052" column="106" lean-forward="false" selection-start-line="4052" selection-start-column="106" selection-end-line="4052" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ast.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#5779#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="17" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Parser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="72936">
           <caret line="4052" column="106" lean-forward="false" selection-start-line="4052" selection-start-column="106" selection-end-line="4052" selection-end-column="106" />
-          <folding>
-            <marker date="1510791093560" expanded="true" signature="121530:121537" ph="{...}" />
-            <marker date="1510791093560" expanded="true" signature="121562:121830" ph="{...}" />
-            <marker date="1510791093560" expanded="true" signature="121855:122158" ph="{...}" />
-            <marker date="1510791093560" expanded="true" signature="122184:122297" ph="{...}" />
-            <marker date="1510791093560" expanded="true" signature="122323:122434" ph="{...}" />
-            <marker date="1510791093560" expanded="true" signature="122460:122563" ph="{...}" />
-            <marker date="1510791093560" expanded="true" signature="122589:122718" ph="{...}" />
-            <marker date="1510791093560" expanded="true" signature="122746:122930" ph="{...}" />
-            <marker date="1510791093560" expanded="true" signature="122955:123151" ph="{...}" />
-            <marker date="1510791093560" expanded="true" signature="123176:123366" ph="{...}" />
-            <marker date="1510791093560" expanded="true" signature="123391:123527" ph="{...}" />
-            <marker date="1510791093560" expanded="true" signature="123555:123738" ph="{...}" />
-            <marker date="1510791093560" expanded="true" signature="123963:124036" ph="{...}" />
-            <marker date="1510791093560" expanded="true" signature="124052:124212" ph="{...}" />
-            <marker date="1510791093560" expanded="true" signature="124239:124391" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -600,69 +951,114 @@
     <entry file="file://$PROJECT_DIR$/factorial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="17" selection-end-column="1" />
+          <caret line="17" column="1" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="17" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testscanner.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+        <state relative-caret-position="756">
+          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sinalmaior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#58#59#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sinalmaior.java" />
     <entry file="file://$PROJECT_DIR$/prioridade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="414">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
           <folding>
-            <element signature="e#59#60#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#59#60#0" expanded="false" />
+            <element signature="e#122#123#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/minijava.jacc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="42" column="77" lean-forward="true" selection-start-line="42" selection-start-column="77" selection-end-line="42" selection-end-column="77" />
+        <state relative-caret-position="540">
+          <caret line="30" column="11" lean-forward="false" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testparser.kt">
+    <entry file="file://$PROJECT_DIR$/README.txt" />
+    <entry file="file://$PROJECT_DIR$/Trab2/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="110" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/minijava.jflex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        <state relative-caret-position="1404">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
+    <entry file="file://$PROJECT_DIR$/Trab2/testchecker.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trab2/token.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ast.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4266">
+          <caret line="237" column="2" lean-forward="false" selection-start-line="237" selection-start-column="2" selection-end-line="237" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#5779#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testparser.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="62" column="22" lean-forward="false" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/token.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="e#1#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trab2/ast.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11628">
+          <caret line="646" column="49" lean-forward="false" selection-start-line="646" selection-start-column="49" selection-end-line="646" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tokens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -670,9 +1066,80 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Compiladores</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Compiladores</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

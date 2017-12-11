@@ -60,7 +60,7 @@ object ParserTest {
         var parser = Parser(f)
         parser.parse()
         val saida = parser.saida.toString()
-        println(saida)) //Comentar essa linha caso queira ver somente o resultado true, como nos outros testes
+        println(saida) //Comentar essa linha caso queira ver somente o resultado true, como nos outros testes
         val sr = java.io.StringReader(saida)
         parser = Parser(sr)
         parser.parse()

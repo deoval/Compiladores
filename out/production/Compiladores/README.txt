@@ -3,6 +3,7 @@ Trabalho de Compiladores
 Alunos: Deoval Luis dos Santos Junior
         Pedro Paulo Soares Kastrup Ferreira
 
+
 Segue em conjunto a esse txt os arquivos jflex e jacc pedidos.
 
 Nós tentamos fazer alguns testes além dos que foram passados no esqueleto do projeto:
@@ -50,7 +51,7 @@ Para executar esse teste é necessário adicionar o código ao arquivo testparse
         var parser = Parser(f)
         parser.parse()
         val saida = parser.saida.toString()
-        println(parser.saida.toString())
+        println(saida)) //Comentar essa linha caso queira ver somente o resultado true, como nos outros testes
         val sr = java.io.StringReader(saida)
         parser = Parser(sr)
         parser.parse()
@@ -87,5 +88,7 @@ class Operacao{
     }
 }
 
-Inserimos essa linha "println(parser.saida.toString())" no código para que a estrutura
+Inserimos essa linha "println(saida)" no código para que a estrutura
 do programa seja exibida e que as prioridades apareçam, como por exemplo:
+"t = (3 + (2 * 4));", onde podemos ver que o a multiplicação tem prioridade sobre a soma.
+

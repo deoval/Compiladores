@@ -586,8 +586,12 @@ fun tipo(no: Any, ctx: Map<String, String>, erros: MutableList<String>): String 
 
         is Indexa -> { // v[i]
             // TODO: implemente esse caso
-            val tval = tipo (no.cond, ctx, erros)
-            return tval
+            val tind = tipo (no.ind, ctx, erros)
+            if (tind != "int"){
+                erros.add("Indexador é " + tind + " ao invés de Int")
+            }
+            //TODO: implementar retorno
+            return "int"
         }
 
         is Length -> { // v.length
@@ -601,7 +605,7 @@ fun tipo(no: Any, ctx: Map<String, String>, erros: MutableList<String>): String 
 
         is Nao -> { // !
             // TODO: implemente esse caso
-            val tval = tipo(no.cond, ctx, erros)
+            val tval = tipo(no.e, ctx, erros)
             if(tval != "boolean"){
                 erros.add("Tipo da negação é " + tval + " ao invés de boolean")
             }
@@ -610,7 +614,7 @@ fun tipo(no: Any, ctx: Map<String, String>, erros: MutableList<String>): String 
 
         is Neg -> { // -
             // TODO: implemente esse caso
-            val tval = tipo(no.cond, ctx, erros)
+            val tval = tipo(no.e, ctx, erros)
             if(tval != "int"){
                 erros.add("Tipo da negação é " + tval + " ao invés de int")
             }
@@ -619,6 +623,11 @@ fun tipo(no: Any, ctx: Map<String, String>, erros: MutableList<String>): String 
 
         is Vetor -> { // new int[e]
             // TODO: implemente esse caso
+            val ttam = tipo(no.tam, ctx, erros)
+            if(ttam != "int"){
+                erros.add("Tipo do indice é " + ttam + " ao invés de int")
+            }
+            supertypes.put("int", "int[]")
             return "int[]"
         }
 
@@ -637,11 +646,22 @@ fun tipo(no: Any, ctx: Map<String, String>, erros: MutableList<String>): String 
                 erros.add("Indexador é " + tind + " ao invés de Int")
             }
             if (!subtype(trval, tvar))
-                erros.add("tipos na atribuição da linha " + no.lin + " incompatíveis, lado esquerdo é " + tvar + " e lado direito é " + texp)
+                erros.add("tipos na atribuição da linha " + no.lin + " incompatíveis, lado esquerdo é " + tvar + " e lado direito é " + trval)
+            //TODO: implementar retorno
+            return "int"
         }
 
         is While -> { // while(exp) cmd;
             // TODO: implemente esse caso
+            val texp = tipo(no.cond, ctx, erros)
+            val cmds = tipo(no.corpo, ctx, erros)
+            if (texp != "boolean"){
+                erros.add("A expressão " + texp + " não é boolean")
+            }
+            for (cmd in cmds) {
+                tipo(cmd, ctx, erros)
+            }
+            return "while"
         }
 
     }
