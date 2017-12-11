@@ -559,6 +559,7 @@ fun tipo(no: Any, ctx: Map<String, String>, erros: MutableList<String>): String 
 
         is Campo -> { // obj.campo
             // TODO: implemente esse caso
+            tipo(no.obj, ctx, erros)///////////
         }
 
         is Dif -> { // !=
@@ -591,6 +592,11 @@ fun tipo(no: Any, ctx: Map<String, String>, erros: MutableList<String>): String 
 
         is Length -> { // v.length
             // TODO: implemente esse caso
+            val texp = tipo (no.exp, ctx, erros)
+            if (texp != "int" && texp != "int[]"){
+                erros.add("Tipo da expressão é " + texp + " ao invés de int ou vetor de int")
+            }
+            return "int"
         }
 
         is Nao -> { // !
@@ -613,10 +619,25 @@ fun tipo(no: Any, ctx: Map<String, String>, erros: MutableList<String>): String 
 
         is Vetor -> { // new int[e]
             // TODO: implemente esse caso
+            return "int[]"
         }
 
         is AtribVetor -> { // v[i] = e
             // TODO: implemente esse caso
+            val trval = tipo(no.rval, ctx, erros)
+            val tind = tipo(no.ind, ctx, erros)
+            var tvar = ctx[no.nome]
+            if (tvar == null) {
+                erros.add("variável " + no.nome +
+                        " na atribuição de vetor da linha " + no.lin +
+                        " não declarada")
+                tvar = "int"
+            }
+            if (tind != "int"){
+                erros.add("Indexador é " + tind + " ao invés de Int")
+            }
+            if (!subtype(trval, tvar))
+                erros.add("tipos na atribuição da linha " + no.lin + " incompatíveis, lado esquerdo é " + tvar + " e lado direito é " + texp)
         }
 
         is While -> { // while(exp) cmd;
